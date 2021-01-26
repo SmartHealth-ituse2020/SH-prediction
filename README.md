@@ -12,7 +12,7 @@ Electronic medical records (EMRs) took the place of paper to store the healthcar
 * Activate virtual environment:
   - GNU/Linux: `source venv/bin/activate`
   - Windows: `.\venv\Scripts\activate`
-* Go to project directory: `cd smarthealth-prediction`
+* Go to project directory: `cd SH-prediction`
 * Install requirements: `pip3 intall -r requirements.txt`
 * Run settings.py `python3 settings.py`
 * Start server `flask run`
